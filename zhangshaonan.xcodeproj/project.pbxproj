@@ -20,11 +20,11 @@
 		8957315215B1532C0071CAEC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8957315415B1532C0071CAEC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8957315615B1532C0071CAEC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		8957315A15B1532C0071CAEC /* zhangshaonan-Info.plist */ = {isa = PBXFileReference; path = "zhangshaonan-Info.plist"; sourceTree = "<group>"; };
+		8957315A15B1532C0071CAEC /* zhangshaonan-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "zhangshaonan-Info.plist"; sourceTree = "<group>"; };
 		8957315C15B1532C0071CAEC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8957315E15B1532C0071CAEC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8957316015B1532C0071CAEC /* zhangshaonan-Prefix.pch */ = {isa = PBXFileReference; path = "zhangshaonan-Prefix.pch"; sourceTree = "<group>"; };
-		8957316115B1532C0071CAEC /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		8957316015B1532C0071CAEC /* zhangshaonan-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "zhangshaonan-Prefix.pch"; sourceTree = "<group>"; };
+		8957316115B1532C0071CAEC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8957316215B1532C0071CAEC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
